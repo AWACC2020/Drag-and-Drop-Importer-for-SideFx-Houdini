@@ -5,13 +5,13 @@ Drag and Drop Importer for houdini (many functions still need to improved)拖曳
 
 ## 安装方法 
 ### 可以直接看gif的,直接跳过
-- 在工具架上添加这行代码 ：
+- 在工具架上添加这行代码 ：  
 import sys  
 sys.path.append( "#your path of script file" )  
 import DragDropImporter  
 reload (DragDropImporter)  
 - 例如我的脚本文件的路径是：D:/1T/HOUPY/tempppp/DragDropImporter.py
-那么就是：
+那么就是：  
 import sys  
 sys.path.append("D:/1T/HOUPY/tempppp")  
 import DragDropImporter  
@@ -22,7 +22,7 @@ reload (DragDropImporter)
 
 ## How to install:
 ### You can just skip this ,just reference to that gif file
-- Add this to your shelf:
+- Add this to your shelf:  
 import sys  
 sys.path.append( "#your path of script file" )  
 import DragDropImporter  
