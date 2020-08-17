@@ -35,10 +35,14 @@ reload (DragDropImporter)
 
 ## 其他：
 - transform节点的属性设置的窗口里是支持直接输入表达式的
+- 很多其他格式的文件的导入都还没开始考虑，不同的读取节点，还有帧数问题等等，都还没加，目前别的只可以直接强行拖进去用file节点读
+- Fbx目前莫得导入设置，目前只是和默认导入的默认设置一样
 - 以后可能加个自定义导入后接什么节点的功能
 - 话说感觉也没时间精力整这破玩意，写的乱七八糟，溜了溜了
 
 ## Others：
 - You can stright type expression in transform Node attribute setting window 
+- No considering for other format,read file node,frame rate,etc, still improving
+- Fbx format has no import setting yet , only equivalent to the default setting of import panel
 - May be add a function for customize what node to add after import
-- may be much time for doing this shxx,sorry
+- may be NO much time for doing this shxx,sorry
