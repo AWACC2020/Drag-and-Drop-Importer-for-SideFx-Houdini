@@ -35,7 +35,7 @@ reload (DragDropImporter)
 ### 其他：
 - transform节点的属性设置的窗口里是支持直接输入表达式的
 - 以后可能加个自定义导入后接什么节点的功能
-- 话说感觉也没时间精力整这破玩意，溜了溜了
+- 话说感觉也没时间精力整这破玩意，写的乱七八糟溜了溜了
 
 ### Others：
 - You can stright type expression in transform Node attribute setting window 
